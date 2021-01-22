@@ -10,6 +10,7 @@
 ## References for Pattern Completion in Hopfield Network
 ### All-time classics
 [Neural networks and physical systems with emergent collective computational abilities.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/)
+
 [Neurons with graded response have collective computational properties like those of two-state neurons](https://www.pnas.org/content/81/10/3088.short)
 
 ### Recent advancements
